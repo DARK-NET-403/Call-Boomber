@@ -42,8 +42,8 @@ termux-setup-storage
 pkg update -y && pkg upgrade -y
 pkg install python git figlet -y
 pip install requests colorama pyfiglet
-git clone https://github.com/DARK-NET-403/Call_Boomber
-cd Call_Boomber
+git clone https://github.com/DARK-NET-403/Call-Boomber
+cd Call-Boomber
 chmod +x call.bin
 ./call.bin
 ```
